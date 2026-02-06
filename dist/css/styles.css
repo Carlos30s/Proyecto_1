@@ -8246,7 +8246,7 @@ textarea.form-control-lg {
 }
 .text-yo-1{
   --bs-text-opacity: 1;
-  color: rgba(250, 250, 250, ) !important;
+  color: rgba(255, 255, 255, 1) !important;
 }
 .text-yo-2{
   --bs-text-opacity: 1;
